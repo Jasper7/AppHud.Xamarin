@@ -1,6 +1,6 @@
 using ObjCRuntime;
 
-namespace ApphudSDK
+namespace AppHud.Xamarin.iOS
 {
 	[Native]
 	public enum ApphudAttributionProvider : long

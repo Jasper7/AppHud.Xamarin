@@ -4,7 +4,7 @@ using ObjCRuntime;
 using StoreKit;
 using UIKit;
 
-namespace ApphudSDK
+namespace AppHud.Xamarin.iOS
 {
     // @protocol ApphudDelegate
     //[Mac(10, 14, 4)]
